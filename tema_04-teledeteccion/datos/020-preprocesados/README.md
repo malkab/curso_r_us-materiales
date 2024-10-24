@@ -1,0 +1,1 @@
+Datos originales preprocesados, con algunas modificaciones externas a R para facilitar su importación.

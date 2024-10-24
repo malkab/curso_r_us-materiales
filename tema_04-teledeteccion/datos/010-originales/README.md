@@ -1,0 +1,1 @@
+Los datos originales siempre se guardan en algún lugar sin alterar. Nunca mezclar datos originales con resultados de proceso si puede evitarse (si no son muy grandes).
